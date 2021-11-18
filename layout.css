@@ -1,0 +1,205 @@
+/* GERAL */
+
+body {
+    font-family: Arial, Verdana, sans-serif;
+}
+
+
+/* MENU */
+
+#menu ul {
+	margin: 0;
+	background-color: #EDEDED;
+	list-style: none;
+    text-align: center;
+}
+
+#menu ul li { 
+    display: inline; 
+}
+
+#menu ul li a {
+    padding: 10px 10px;
+    display: inline-block;
+    background-color:#EDEDED;
+    color: #333;
+    text-decoration: none;
+    border-bottom:3px solid #EDEDED;
+    color: black;
+    font-size: 18px;
+}
+
+#menu ul li a:hover {
+    background-color:#D6D6D6;
+    color: #6D6D6D;
+    border-bottom:3px solid #fff717;
+}
+
+
+/* INDEX */
+
+#inicio {
+    padding: 30px;
+}
+
+#inicio .displayed {
+    display: block;
+    margin-left: auto;
+    margin-right: auto
+}
+
+
+#inicio h1 {
+	font-family: Arial, Verdana, sans-serif; 
+	font-size: 55px;
+	line-height: 25px;
+	text-align: center;
+	color: #db0000;
+}
+
+
+#inicio p {
+	font-family: Arial, Verdana, sans-serif; 
+	text-align: center;
+    font-size: 25px;
+}
+
+
+/* GERAL */
+
+#geral {
+    padding-right: 30px;
+}
+
+#geral h2 {
+    font-family: Arial, Verdana, sans-serif; 
+    font-size: 30px;
+    line-height: 25px;
+    text-align: center;
+    color: #db0000;
+    padding-top: 25px;
+}
+
+#geral p {
+    font-family: Arial, Verdana, sans-serif; 
+    text-align: center;
+    font-size: 20px;
+}
+
+#mapa {
+    float: left;
+    padding-left: 40px;
+}
+
+
+/* CULTURA */
+
+#cultura h1 {
+    font-family: Arial, Verdana, sans-serif; 
+    font-size: 30px;
+    line-height: 25px;
+    text-align: center;
+    color: #db0000 ;
+    padding-top: 15px;
+    padding-bottom: 05px;
+}
+
+#cultura h2 {
+    font-family: Arial, Verdana, sans-serif; 
+    font-size: 25px;
+    line-height: 25px;
+    text-align: left;
+}
+
+#cultura p {
+    font-family: Arial, Verdana, sans-serif; 
+    text-align: left;
+    font-size: 20px;
+
+}
+
+#tradicoes {
+    padding-left:300px
+}
+
+#imagens {
+    padding-left: 300px;
+}
+
+
+/* TURISMO */
+
+#turismo {
+    padding-left: 30px;
+    padding-right: 30px;
+}
+
+#turismo h1 {
+    font-family: Arial, Verdana, sans-serif; 
+    font-size: 30px;
+    line-height: 25px;
+    text-align: center;
+    color: #db0000 ;
+    padding-top: 15px;
+    padding-bottom: 05px;
+}
+
+#turismo h2 {
+    font-family: Arial, Verdana, sans-serif; 
+    font-size: 25px;
+    line-height: 25px;
+    text-align: left;
+}
+
+#turismo p {
+    font-family: Arial, Verdana, sans-serif; 
+    text-align: left;
+    font-size: 20px;
+}
+
+.displayed {
+    display: block;
+    margin-left: auto;
+    margin-right: auto
+}
+
+
+/* PRATOS TÍPICOS */
+
+#pratos h1 {
+    font-family: Arial, Verdana, sans-serif; 
+    font-size: 30px;
+    line-height: 25px;
+    text-align: center;
+    color: #db0000 ;
+    padding-top: 15px;
+    padding-bottom: 05px;
+}
+
+
+#pratos h2 {
+    font-family: Arial, Verdana, sans-serif; 
+    font-size: 25px;
+    line-height: 25px;
+    text-align: left;
+}
+
+#pratos p {
+    font-family: Arial, Verdana, sans-serif; 
+    text-align: left;
+    font-size: 20px;
+}
+
+.displayed {
+    display: block;
+    margin-left: auto;
+    margin-right: auto
+}
+
+#pratos {
+    padding-left: 30px;
+    padding-right: 30px;
+}
+
+
+
